@@ -23,4 +23,5 @@ const StyledLayout = styled.div`
   margin: auto;
   padding: 32px;
   font-family: 'Be Vietnam Pro', san-serif;
+  box-sizing: border-box;
 `
